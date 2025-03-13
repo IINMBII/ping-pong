@@ -1,9 +1,10 @@
 # ping-pong
+# RUS
 # В этом репозитории лежит прототип игры Ping-Pong. Это локально-мультиплеерная игра расчитанная на два человека.
 # Управление:
 # 1-ый игрок: вверх - W ; вниз - S
 # 2-ой игрок: вверх - стрелка вверх ; вниз - стрелка вниз
-#
+# ENG
 # This repository contains a prototype of the Ping-Pong game. This is a local multiplayer game designed for two people.
 # Management:
 # 1st player: up - W ; down - S
